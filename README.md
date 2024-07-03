@@ -2,7 +2,7 @@
 
 <h3 align="center">Sou um estudante de Engenharia de Computação</h3>
 
-- 🌱 O que estou aprendendo? No meu tempo livre da faculdade tenho estudo muito ciência de dados e machine learning. No momento estou estudando Supervised Machine Learning
+- 🌱 O que estou aprendendo? No meu tempo livre da faculdade tenho estudado muito ciência de dados e machine learning. No momento estou estudando Supervised Machine Learning
 
 - 📫 How to reach me **pedroaugustocnpereira@hotmail.com**
 
